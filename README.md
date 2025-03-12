@@ -28,6 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="50px" />
 </p>
 
 ---
@@ -45,7 +46,7 @@ I’m a **Backend Developer** passionate about crafting scalable, high-performan
 I love problem-solving, performance optimization, and exploring cutting-edge **backend technologies**.  
 
 📬 **How to reach me?**  
-📩 [delvinaping10@gmail.com](mailto:delvinaping10@gmail.com)  
+📩 [delvinaping10@gmail.com](mailto:delvinaping10@gmail.com) 
 
 ---
 
@@ -62,4 +63,3 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 ✅ **E-Commerce Backend** – Laravel-based API for an online marketplace  
 ✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
 ✅ **Authentication System** – Secure login & session management with JWT  
-
