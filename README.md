@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115469475/233745964-9a94f7a5-92d1-48b1-b63f-37a1e302ca21.gif" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Delvin Julian 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Backend+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+API+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Backend+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+API+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" />
+</p>
+
 
 ---
 
