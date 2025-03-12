@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julianvin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianvin&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Julianvin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
