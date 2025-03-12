@@ -63,7 +63,3 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 ✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
 ✅ **Authentication System** – Secure login & session management with JWT  
 
----
-
-## 🎯 Fun Fact
-🔥 **I automated a 6-hour task into a 10-minute script – efficiency is my superpower!**  
