@@ -32,6 +32,12 @@
 </p>
 
 ---
+## 👀 Profile Views
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 🎯 **Who am I?**  
