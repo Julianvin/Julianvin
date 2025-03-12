@@ -85,7 +85,7 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 
 ## 🎉 Thank You for Visiting!  
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="300px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2cW85cnJjbGNtbnlheG41OXdoZ3RlaHRrbjR0Y2Uycm11aWl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated GIF" width="500px" />
   <br>
   <strong>Happy Coding! 🚀 Keep Innovating! 💡</strong>
 </p>
