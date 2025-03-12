@@ -32,12 +32,6 @@
 </p>
 
 ---
-## 👀 Profile Views
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
-</p>
-
----
 
 ## 🧑‍💻 About Me
 🎯 **Who am I?**  
@@ -68,4 +62,10 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 🚀 **Recent Projects:**  
 ✅ **E-Commerce Backend** – Laravel-based API for an online marketplace  
 ✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
-✅ **Authentication System** – Secure login & session management with JWT  
+✅ **Authentication System** – Secure login & session management with JWT 
+
+---
+## 👀 Profile Views
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
+</p>
