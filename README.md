@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="50px" />
-  <img src="https://skillicons.dev/icons?i=,github,vscode,composer" alt="Tech Stack & Tools widht="50px" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" widht="50px" />
 </p>
 
 ---
