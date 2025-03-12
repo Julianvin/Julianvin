@@ -82,3 +82,10 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 <p align="center">
   <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
 </p>
+
+## 🎉 Thank You for Visiting!  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+  <br>
+  <strong>Happy Coding! 🚀</strong>
+</p>
