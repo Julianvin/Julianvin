@@ -45,7 +45,7 @@ I’m a **Backend Developer** passionate about crafting scalable, high-performan
 I love problem-solving, performance optimization, and exploring cutting-edge **backend technologies**.  
 
 📬 **How to reach me?**  
-📩 [delvinjulian@example.com](mailto:delvinjulian@example.com)  
+📩 [delvinaping10@gmail.com](mailto:delvinaping10@gmail.com)  
 
 ---
 
