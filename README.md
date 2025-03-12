@@ -35,7 +35,6 @@
 ## 🧑‍💻 About Me
 - 🚀 I’m a **Backend Developer** passionate about building scalable and efficient web applications.
 - 🔧 I specialize in **Laravel, PHP, and MySQL**, with experience in building RESTful APIs and database optimization.
-- 🌱 Currently learning **system architecture, microservices, and advanced JavaScript**.
 - 💡 Interested in **problem-solving, clean code, and performance optimization**.
 - 📫 How to reach me: **delvinjulian@example.com**
 
