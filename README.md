@@ -1,20 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/115469475/233745964-9a94f7a5-92d1-48b1-b63f-37a1e302ca21.gif" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi there, I'm Delvin Julian 👋</h1>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="60px" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" />
-</p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/115469475/233745964-9a94f7a5-92d1-48b1-b63f-37a1e302ca21.gif" alt="Banner" width="100%" /> </p><h1 align="center">Hi there, I'm Delvin Julian 👋</h1><h3 align="center">A passionate Backend Developer from Indonesia</h3><p align="center"> <a href="https://github.com/Julianvin?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /> </a> <a href="https://www.linkedin.com/in/delvin-julian/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:delvinjulian@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 
 
