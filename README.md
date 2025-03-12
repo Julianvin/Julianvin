@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/115469475/233745964-9a94f7a5-92d1-48b1-b63f-37a1e302ca21.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Delvin Julian 👋</h1>
-<h3 align="center">A passionate Backend Developer from Indonesia</h3>
+<h1 align="center">Hey there, I'm Delvin Julian! 👋</h1>
+<h3 align="center">🚀 Backend Developer | Laravel Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Julianvin?tab=repositories">
@@ -21,26 +21,31 @@
 
 ## 🚀 Tech Stack & Tools
 <p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="6">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" />
-  </marquee>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" />
 </p>
-
-
 
 ---
 
 ## 🧑‍💻 About Me
-- 🚀 I’m a **Backend Developer** passionate about building scalable and efficient web applications.
-- 🔧 I specialize in **Laravel, PHP, and MySQL**, with experience in building RESTful APIs and database optimization.
-- 💡 Interested in **problem-solving, clean code, and performance optimization**.
-- 📫 How to reach me: **delvinjulian@example.com**
+🎯 **Who am I?**  
+I’m a **Backend Developer** passionate about crafting scalable, high-performance web applications.  
+
+🚀 **What do I do?**  
+- Building and optimizing **RESTful APIs** with **Laravel & PHP**  
+- Database management and query optimization using **MySQL**  
+- Implementing **clean code** principles for better maintainability  
+
+💡 **What excites me?**  
+I love problem-solving, performance optimization, and exploring cutting-edge **backend technologies**.  
+
+📬 **How to reach me?**  
+📩 [delvinjulian@example.com](mailto:delvinjulian@example.com)  
 
 ---
 
@@ -52,5 +57,13 @@
 
 ---
 
-## 🔥 Fun Fact
-**I once automated a 6-hour task into a 10-minute script! 🚀**
+## 🏆 Projects & Contributions
+🚀 **Recent Projects:**  
+✅ **E-Commerce Backend** – Laravel-based API for an online marketplace  
+✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
+✅ **Authentication System** – Secure login & session management with JWT  
+
+---
+
+## 🎯 Fun Fact
+🔥 **I automated a 6-hour task into a 10-minute script – efficiency is my superpower!**  
