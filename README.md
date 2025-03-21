@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Delvin Julian! 👋</h1>
-<h3 align="center">🚀 Backend Developer | Laravel Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Backend Developer | Laravel Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/Julianvin?tab=repositories">
