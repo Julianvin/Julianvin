@@ -73,7 +73,6 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
 
 ## 🏆 Projects & Contributions
 🚀 **Recent Projects:**  
-✅ **E-Commerce Backend** – Laravel-based API for an online marketplace  
 ✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
 ✅ **Authentication System** – Secure login & session management with JWT 
 
