@@ -85,13 +85,6 @@ I love problem-solving, performance optimization, and exploring cutting-edge **b
   <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
 </p>
 
----
-
-## 🐍 Snake Eating My Contributions
-<p align="center">
-  <img src="https://github.com/Julianvin/output/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ## 🎉 Thank You for Visiting!  
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2cW85cnJjbGNtbnlheG41OXdoZ3RlaHRrbjR0Y2Uycm11aWl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" />
