@@ -48,7 +48,7 @@
 
 ## 🧑‍💻 About Me
 🎯 **Who am I?**  
-I’m a **Backend Developer** passionate about crafting scalable, high-performance web applications.  
+I’m a **Backend Developer** passionate about crafting scalable.  
 
 🚀 **What do I do?**  
 - Building and optimizing **RESTful APIs** with **Laravel & PHP**  
