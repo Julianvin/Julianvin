@@ -2,14 +2,14 @@
   <img src="https://user-images.githubusercontent.com/115469475/233745964-9a94f7a5-92d1-48b1-b63f-37a1e302ca21.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there, I'm Delvin Julian! 👋</h1>
-<h3 align="center">🚀 Backend Developer | Laravel Enthusiast </h3>
+<h1 align="center">Hi there! I'm Muhammad Delvin Julian 👋</h1>
+<h3 align="center">🚀 Backend Developer | Software Engineering Student</h3>
 
 <p align="center">
-  <a href="https://github.com/Julianvin?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="https://delvinjulian.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/delvinj">
+  <a href="https://www.linkedin.com/in/delvinj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:delvinaping10@gmail.com">
@@ -19,80 +19,77 @@
 
 ---
 
+## 🧑‍💻 About Me
+
+I am a passionate **Backend Developer** with a strong foundation in MVC architecture and database design. Currently studying Software & Game Development, I thrive on building scalable web applications, optimizing RESTful APIs, and writing clean, maintainable code. 
+
+- 🎓 **Education:** Software Engineering Student at SMK Wikrama Bogor.
+- 💼 **Experience:** Previously a Backend Developer Intern at PT. HEXA WIRA UTAMA, developing an internal project management system.
+- 🌱 **Currently Learning:** Enhancing my frontend skills with React, Framer Motion, and GSAP.
+- 🎯 **Goal:** Actively looking for **Internship or Full-time opportunities** as a Backend or Fullstack Developer.
+
+---
+
 ## 🚀 Tech Stack & Tools
 
-### 🖥️ Frontend Development
+### 🖥️ Frontend & Mobile
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="30px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="35px" />
 </p>
 
-### 🛠️ Backend Development
+### 🛠️ Backend & Database
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35px" />
 </p>
 
-### 🛠️ Development Tools
+### ⚙️ Development Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="Chrome" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="35px" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-🎯 **Who am I?**  
-I’m a **Backend Developer** passionate about crafting scalable.  
+## 🏆 Featured Projects
 
-🚀 **What do I do?**  
-- Building and optimizing **RESTful APIs** with **Laravel & PHP**  
-- Database management and query optimization using **MySQL**  
-- Implementing **clean code** principles for better maintainability  
-
-💡 **What excites me?**  
-I love problem-solving, performance optimization, and exploring cutting-edge **backend technologies**.  
-
-📬 **How to reach me?**  
-📩 [delvinaping10@gmail.com](mailto:delvinaping10@gmail.com) 
+| Project | Description | Technologies |
+|---|---|---|
+| **[delvinjulian.me](https://delvinjulian.me)** | My personal developer portfolio featuring smooth scroll animations and integrated analytics. | `React`, `Framer Motion`, `GSAP` |
+| **Project Management System** | Internal system developed during my internship for tracking operations and workflows. | `Laravel`, `PHP`, `MySQL` |
+| **Form Automator Extension** | A custom Chrome browser extension built to automate repetitive form-filling tasks. | `JavaScript`, `Chrome API` |
+| **Authentication System** | Secure login and session management implementation using JSON Web Tokens (JWT). | `Laravel`, `REST API`, `JWT` |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julianvin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianvin&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianvin&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julianvin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianvin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julianvin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julianvin/Julianvin/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 🏆 Projects & Contributions
-🚀 **Recent Projects:**  
-✅ **Inventory Management System** – Optimized CRUD operations for efficient tracking  
-✅ **Authentication System** – Secure login & session management with JWT 
-
-...
-
-## 👀 Profile Views
 <p align="center">
   <img src="https://profile-counter.glitch.me/Julianvin/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Julianvin/Julianvin/output/snake.svg" alt="Snake animation" />
-</p>
-
-## 🎉 Thank You for Visiting!  
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2cW85cnJjbGNtbnlheG41OXdoZ3RlaHRrbjR0Y2Uycm11aWl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2cW85cnJjbGNtbnlheG41OXdoZ3RlaHRrbjR0Y2Uycm11aWl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px" />
   <br>
-  <strong>Happy Coding! 🚀</strong>
+  <strong>Thanks for dropping by! Happy Coding! 🚀</strong>
 </p>
-
