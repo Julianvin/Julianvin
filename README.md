@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Backend Developer** with a strong foundation in MVC architecture and database design. Currently studying Software & Game Development, I thrive on building scalable web applications, optimizing RESTful APIs, and writing clean, maintainable code. 
+I am a passionate **Backend Developer** with a strong foundation in MVC architecture and database design. Currently studying Software Development, I thrive on building scalable web applications, optimizing RESTful APIs, and writing clean, maintainable code. 
 
 - 🎓 **Education:** Software Engineering Student at SMK Wikrama Bogor.
 - 💼 **Experience:** Previously a Backend Developer Intern at PT. HEXA WIRA UTAMA, developing an internal project management system.
